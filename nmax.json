@@ -1,0 +1,42 @@
+[
+   {
+    "id": 145,
+    "name": "OUR HOUSE",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/house.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 17.115730,
+    "lng": 120.450230
+  },
+  {
+    "id": 148,
+    "name": "Chocolate Hills Bohol",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/a.jpg",
+    "price": 200,
+    "priceCurrency": "PESO",
+    "lat": 9.829730,
+    "lng": 124.139664
+  },
+  {
+   "destination_addresses" : [ "New York, NY, USA" ],
+   "origin_addresses" : [ "Washington, DC, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "225 mi",
+                  "value" : 361715
+               },
+               "duration" : {
+                  "text" : "3 hours 49 mins",
+                  "value" : 13725
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+]
